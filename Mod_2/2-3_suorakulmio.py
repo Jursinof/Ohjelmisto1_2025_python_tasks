@@ -1,5 +1,3 @@
-import math
-
 kanta_str = input("Anna suorakulmion kanta: ")
 korkeus_str = input("Anna suorakulmion korkeus: ")
 kanta = float(kanta_str)
